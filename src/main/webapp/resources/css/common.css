@@ -1,0 +1,26 @@
+/*기본 코드*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #fff;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+footer{
+  background-color: #eee;
+  margin-top: 100px;
+}
+
+
+
+/*  * {
+	border: 1px solid #f00;
+}    */
